@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "stdbool.h": "c",
-        "__locale": "c",
-        "locale": "c",
-        "pthread.h": "c"
-    }
-}
